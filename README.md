@@ -13,6 +13,21 @@
 
 ---
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="assets/screenshots/1.png" width="160px" /><br/><sub>主页</sub></td>
+      <td align="center"><img src="assets/screenshots/2.png" width="160px" /><br/><sub>添加任务</sub></td>
+      <td align="center"><img src="assets/screenshots/3.png" width="160px" /><br/><sub>生成 PIN</sub></td>
+      <td align="center"><img src="assets/screenshots/4.png" width="160px" /><br/><sub>输入 PIN</sub></td>
+      <td align="center"><img src="assets/screenshots/5.png" width="160px" /><br/><sub>任务详情</sub></td>
+      <td align="center"><img src="assets/screenshots/6.png" width="160px" /><br/><sub>列表管理</sub></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 技术栈 (Tech Stack)
 
 ### Frontend (Taco Shell)
