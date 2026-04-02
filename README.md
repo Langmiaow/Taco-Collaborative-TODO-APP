@@ -23,31 +23,31 @@
 ## 软件截图 (Screenshots)
 
 <div align="center">
-  <table style="table-layout: fixed; width: 100%;">
+  <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
-      <td align="center" valign="top">
-        <img src="assets/screenshots/1.png" width="150" /><br/>
-        <sub>Homepage</sub>
+      <td align="center" valign="bottom" width="16%">
+        <img src="assets/screenshots/1.png" height="320" /><br/>
+        <sub style="font-size: 12px;"><b>Homepage</b></sub>
       </td>
-      <td align="center" valign="top">
-        <img src="assets/screenshots/2.png" width="150" /><br/>
-        <sub>Add Task</sub>
+      <td align="center" valign="bottom" width="16%">
+        <img src="assets/screenshots/2.png" height="320" /><br/>
+        <sub style="font-size: 12px;"><b>Add Task</b></sub>
       </td>
-      <td align="center" valign="top">
-        <img src="assets/screenshots/3.png" width="150" /><br/>
-        <sub>Generate PIN</sub>
+      <td align="center" valign="bottom" width="16%">
+        <img src="assets/screenshots/3.png" height="320" /><br/>
+        <sub style="font-size: 12px;"><b>Generate PIN</b></sub>
       </td>
-      <td align="center" valign="top">
-        <img src="assets/screenshots/4.png" width="150" /><br/>
-        <sub>Enter PIN</sub>
+      <td align="center" valign="bottom" width="16%">
+        <img src="assets/screenshots/4.png" height="320" /><br/>
+        <sub style="font-size: 12px;"><b>Enter PIN</b></sub>
       </td>
-      <td align="center" valign="top">
-        <img src="assets/screenshots/5.png" width="150" /><br/>
-        <sub>Task Detail</sub>
+      <td align="center" valign="bottom" width="16%">
+        <img src="assets/screenshots/5.png" height="320" /><br/>
+        <sub style="font-size: 12px;"><b>Task Detail</b></sub>
       </td>
-      <td align="center" valign="top">
-        <img src="assets/screenshots/6.png" width="150" /><br/>
-        <sub>List Management</sub>
+      <td align="center" valign="bottom" width="16%">
+        <img src="assets/screenshots/6.png" height="320" /><br/>
+        <sub style="font-size: 12px; white-space: nowrap;"><b>List Management</b></sub>
       </td>
     </tr>
   </table>
