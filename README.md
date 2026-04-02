@@ -4,14 +4,14 @@
 
 **Taco** is a cross-platform task management App using Flutter, Flask and MySQL database, implementing a complete full stack workflow featuring a PIN-based sharing system, allowing users to synchronize and share contents.
 
-## 核心亮点 (Key Feature)
+## 核心亮点 
 
 * **全栈自研**：前端使用 Flutter 实现丝滑的跨平台体验，后端使用 Python/Flask 驱动。
 * **即时协作**：独创的 PIN 码分享逻辑，无需复杂的账号体系即可实现任务实时同步。
 * **多语言支持**：原生支持中英文切换（i18n），适应全球化使用场景。
 * **持久化存储**：结合本地状态管理与远程数据库，确保数据安全与实时性。
 
----
+## Key Feature
 
 * **Full-Stack Development**: Independently engineered a cross-platform application using Flutter for a seamless UI/UX and Python/Flask to power backend services.
 * **Instant Collaboration**: Developed a unique PIN-based sharing logic that enables real-time task synchronization without the friction of complex account registration.
@@ -20,15 +20,17 @@
 
 ---
 
+## 软件截图 (Screenshots)
+
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="assets/screenshots/1.png" width="160px" /><br/><sub>主页</sub></td>
-      <td align="center"><img src="assets/screenshots/2.png" width="160px" /><br/><sub>添加任务</sub></td>
-      <td align="center"><img src="assets/screenshots/3.png" width="160px" /><br/><sub>生成 PIN</sub></td>
-      <td align="center"><img src="assets/screenshots/4.png" width="160px" /><br/><sub>输入 PIN</sub></td>
-      <td align="center"><img src="assets/screenshots/5.png" width="160px" /><br/><sub>任务详情</sub></td>
-      <td align="center"><img src="assets/screenshots/6.png" width="160px" /><br/><sub>列表管理</sub></td>
+      <td align="center"><img src="assets/screenshots/1.png" width="160px" /><br/><sub>Homepage</sub></td>
+      <td align="center"><img src="assets/screenshots/2.png" width="160px" /><br/><sub>Add task </sub></td>
+      <td align="center"><img src="assets/screenshots/3.png" width="160px" /><br/><sub>Generate PIN</sub></td>
+      <td align="center"><img src="assets/screenshots/4.png" width="160px" /><br/><sub>Enter PIN</sub></td>
+      <td align="center"><img src="assets/screenshots/5.png" width="160px" /><br/><sub>Task detail</sub></td>
+      <td align="center"><img src="assets/screenshots/6.png" width="160px" /><br/><sub>List management</sub></td>
     </tr>
   </table>
 </div>
