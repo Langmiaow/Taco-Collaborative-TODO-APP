@@ -11,6 +11,11 @@
 * **多语言支持**：原生支持中英文切换（i18n），适应全球化使用场景。
 * **持久化存储**：结合本地状态管理与远程数据库，确保数据安全与实时性。
 
+* **Full-Stack Development**: Independently engineered a cross-platform application using Flutter for a seamless UI/UX and Python/Flask to power backend services.
+* **Instant Collaboration**: Developed a unique PIN-based sharing logic that enables real-time task synchronization without the friction of complex account registration.
+* **Multi-Language Support (i18n)**: Integrated native internationalization for Chinese and English, ensuring a localized experience for a global user base.
+* **Hybrid Data Persistence**: Implemented a robust storage architecture combining local state management with a remote database (MySQL) to ensure data integrity and low-latency synchronization.
+
 ---
 
 <div align="center">
