@@ -23,14 +23,32 @@
 ## 软件截图 (Screenshots)
 
 <div align="center">
-  <table>
+  <table style="table-layout: fixed; width: 100%;">
     <tr>
-      <td align="center"><img src="assets/screenshots/1.png" width="160px" /><br/><sub>Homepage</sub></td>
-      <td align="center"><img src="assets/screenshots/2.png" width="160px" /><br/><sub>Add task </sub></td>
-      <td align="center"><img src="assets/screenshots/3.png" width="160px" /><br/><sub>Generate PIN</sub></td>
-      <td align="center"><img src="assets/screenshots/4.png" width="160px" /><br/><sub>Enter PIN</sub></td>
-      <td align="center"><img src="assets/screenshots/5.png" width="160px" /><br/><sub>Task detail</sub></td>
-      <td align="center"><img src="assets/screenshots/6.png" width="160px" /><br/><sub>List management</sub></td>
+      <td align="center" valign="top">
+        <img src="assets/screenshots/1.png" width="150" /><br/>
+        <sub>Homepage</sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="assets/screenshots/2.png" width="150" /><br/>
+        <sub>Add Task</sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="assets/screenshots/3.png" width="150" /><br/>
+        <sub>Generate PIN</sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="assets/screenshots/4.png" width="150" /><br/>
+        <sub>Enter PIN</sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="assets/screenshots/5.png" width="150" /><br/>
+        <sub>Task Detail</sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="assets/screenshots/6.png" width="150" /><br/>
+        <sub>List Management</sub>
+      </td>
     </tr>
   </table>
 </div>
